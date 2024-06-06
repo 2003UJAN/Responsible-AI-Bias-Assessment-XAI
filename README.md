@@ -1,1 +1,1 @@
-# Responsible-Ai-Bias-Assessment-XAI
+# Responsible-AI-Bias-Assessment-XAI
